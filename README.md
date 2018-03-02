@@ -3,7 +3,7 @@ This was one of my first projects when learning web development. It was an exerc
 
 # Key features of code
 ## Generating a random RGB colour string
-I required a function that would return a string in `rbg(n,n,n)` format, where `n` would be a random, valid RGB value:
+I required a function that would return a string in `rgb(n,n,n)` format, where `n` would be a random, valid RGB value:
 ```javascript
 function randomColour() {
 	var r = Math.floor(Math.random() * 256);
