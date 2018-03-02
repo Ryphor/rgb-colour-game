@@ -69,4 +69,5 @@ for(var i = 0; i < squares.length; i++){
 	});
 }
 ```
+---
 This is a demo project with no real purpose; do with it what you will!
